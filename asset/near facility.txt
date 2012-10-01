@@ -1,0 +1,7 @@
+near facility
+
+restaurant
+warnet
+mall
+hospital
+bank
